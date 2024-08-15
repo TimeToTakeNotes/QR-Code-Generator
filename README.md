@@ -1,2 +1,2 @@
-# QR_Code_Generator
-A simple QR Code generator app with JavaScript, QRcode.js and Tailwind CSS.
+# QR Code Generator
+A Simple QR Code Generator Web App with JavaScript, CSS and QRcode.js.
