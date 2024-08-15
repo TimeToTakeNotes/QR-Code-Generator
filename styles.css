@@ -7,12 +7,12 @@
 }
 
 :root{
-    --primary-color: #662d72;
-    --secondary-color: #eb4e9b;
+    --primary-color: #500d7e;
+    --secondary-color: #0f6d86;
     --background-color: #f3f2f245;
-    --hover-1-color: #783885;
-    --hover-2-color: #f15ea6;
-    --text-color: #bb408c;
+    --hover-1-color: #6d1c95;
+    --hover-2-color: #2688d2;
+    --text-color: #e8a451;
 }
 
 body{
